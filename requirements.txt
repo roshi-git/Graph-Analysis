@@ -1,3 +1,4 @@
 notebook
 sklearn
 networkx
+pandas
