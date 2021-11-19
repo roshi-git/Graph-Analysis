@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\COLLEGE\BITS PILANI\SS 3rd Semester\SMA\Assignments\Assignment 1\code\a1_env"
+VIRTUAL_ENV="D:\COLLEGE\BITS PILANI\SS 3rd Semester\SMA\Assignments\Assignment 1\Assignment Repo\Graph-Analysis\a1_env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
